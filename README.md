@@ -1,2 +1,2 @@
-# quantum
+# Quantum
 qiskit, d-wave,cirq
